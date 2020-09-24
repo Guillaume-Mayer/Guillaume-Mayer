@@ -21,5 +21,5 @@ A french developer living in Chile.
 
 ## Links
 
-- [My resume](https://guillaume-mayer.github.io/cv)
+- [My resume](https://guillaume-mayer.github.io/cv/es.html)
 - [My humble chess game](https://guillaume-mayer.github.io/chess)
