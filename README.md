@@ -1,7 +1,5 @@
 # Guillaume Mayer 
 
-## About me
-
 A french developer living in Chile.
 
 ## I like
